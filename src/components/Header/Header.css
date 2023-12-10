@@ -1,0 +1,22 @@
+
+
+a.nav-link:hover{
+    background-color:rgb(192, 35, 35);
+    font-weight: normal;
+    border-radius: 10%;
+    
+}
+#header-nav{
+    background-color:#0000007a;
+    
+}
+.nav-last-link{
+    background-color:rgb(192, 35, 35);
+    border-radius: 5%;
+    color: white;
+}
+
+.nav-last-link:hover{
+    background-color:white;
+    color:rgb(8, 8, 8) important;
+}

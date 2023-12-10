@@ -1,0 +1,26 @@
+#join-rem{
+    padding-top:6rem;
+    padding-bottom:6rem;
+}
+.bouncing-element {
+    transition: transform 0.5s ease-in-out;
+    height: 105px;
+  }
+
+  .bouncing-element {
+    animation: bounce 0.8s infinite;
+  }
+
+  @keyframes bounce {
+    0% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(30px); /* Adjust the distance for descent */
+      }
+
+      
+      100% {
+        transform: translateY(0); /* Back to the starting position */
+      }
+  }

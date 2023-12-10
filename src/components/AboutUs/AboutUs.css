@@ -1,0 +1,9 @@
+#dotted{
+    border-top-style:dashed;
+    border-top-color:white;
+    border-top-width: 1px;
+    border-left-style:solid;
+    border-left-color: red;
+    margin-top: 10%;
+    
+}

@@ -1,0 +1,14 @@
+#border-drop{
+    border-top-style:solid;
+    border-top-color:white;
+    border-top-width: 2px;
+
+    border-bottom-style:solid;
+    border-bottom-color:white;
+    border-bottom-width: 2px;
+}
+
+#border-drop:hover{
+    border-top-color:red;
+    border-bottom-color:red;
+}
