@@ -6,12 +6,12 @@ const RoadMap = () => {
       <div className="container mt-md-5">
         <div className="row ">
           <div className="col-md-12">
-            <h1 class="fw-medium" id="custom-fs-5">
+            <span class="fw-medium" id="custom-fs-5">
               ROADMAP
-            </h1>
-            <h1 class="fw-medium text-light text-center" id="custom-fs-6">
+            </span>
+            <span class="fw-medium text-light text-center" id="custom-fs-6">
               Roadmap
-            </h1>
+            </span>
           </div>
         </div>
       </div>
