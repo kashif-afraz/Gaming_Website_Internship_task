@@ -7,7 +7,8 @@
 }
 
 
-  @media (min-width: 0px) and (max-width: 480px){ #custom-fs-5 {
+  @media (min-width: 0px) and (max-width: 480px){ 
+    #custom-fs-5 {
     font-size: 1rem;
     color: #0B1644;
     letter-spacing: 6px;
