@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Gaming_Website_Internship_task/static/css/main.4a806fe7.css",
+    "main.js": "/Gaming_Website_Internship_task/static/js/main.11b4effc.js",
+    "static/js/787.1e72e600.chunk.js": "/Gaming_Website_Internship_task/static/js/787.1e72e600.chunk.js",
+    "static/media/site-background.png": "/Gaming_Website_Internship_task/static/media/site-background.31680e4317294d15923e.31680e4317294d15923e.png",
+    "static/media/FONDUANCFAICBA-min.png": "/Gaming_Website_Internship_task/static/media/FONDUANCFAICBA-min.837f93f4df558d75b9bc.837f93f4df558d75b9bc.png",
+    "static/media/GENIS.png": "/Gaming_Website_Internship_task/static/media/GENIS.d6b0e8564ac19bc8787e.d6b0e8564ac19bc8787e.png",
+    "static/media/header-backoground-min-p-1080.png": "/Gaming_Website_Internship_task/static/media/header-backoground-min-p-1080.907f9ed6de169f69a091.907f9ed6de169f69a091.png",
+    "static/media/the-metaverse-you-need-p-1080.png": "/Gaming_Website_Internship_task/static/media/the-metaverse-you-need-p-1080.46f9bbe57b88448c127d.46f9bbe57b88448c127d.png",
+    "static/media/Team-Perry-500.png": "/Gaming_Website_Internship_task/static/media/Team-Perry-500.b675392954e43b933623.b675392954e43b933623.png",
+    "static/media/Team-Steve-500.png": "/Gaming_Website_Internship_task/static/media/Team-Steve-500.821f3739dec6e7f4df02.821f3739dec6e7f4df02.png",
+    "static/media/Team-Danny-500.png": "/Gaming_Website_Internship_task/static/media/Team-Danny-500.91fdd8688ee74f15a8bc.91fdd8688ee74f15a8bc.png",
+    "static/media/Team-John-500.png": "/Gaming_Website_Internship_task/static/media/Team-John-500.1519bcd50fc63cf29b73.1519bcd50fc63cf29b73.png",
+    "static/media/Team-Ewan-500.png": "/Gaming_Website_Internship_task/static/media/Team-Ewan-500.8f98432e92628e322e5d.8f98432e92628e322e5d.png",
+    "static/media/Team-Winston-500.png": "/Gaming_Website_Internship_task/static/media/Team-Winston-500.a38a9ed5d427a1b1bc66.a38a9ed5d427a1b1bc66.png",
+    "static/media/Team-Genis-500.png": "/Gaming_Website_Internship_task/static/media/Team-Genis-500.0e6476a583389bf06a6d.0e6476a583389bf06a6d.png",
+    "static/media/diamand-icon.png": "/Gaming_Website_Internship_task/static/media/diamand-icon.a4b6ba360c922d6f9027.a4b6ba360c922d6f9027.png",
+    "static/media/discord-button.png": "/Gaming_Website_Internship_task/static/media/discord-button.5b6dc95be8af699039b7.5b6dc95be8af699039b7.png",
+    "index.html": "/Gaming_Website_Internship_task/index.html",
+    "main.4a806fe7.css.map": "/Gaming_Website_Internship_task/static/css/main.4a806fe7.css.map",
+    "main.11b4effc.js.map": "/Gaming_Website_Internship_task/static/js/main.11b4effc.js.map",
+    "787.1e72e600.chunk.js.map": "/Gaming_Website_Internship_task/static/js/787.1e72e600.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a806fe7.css",
+    "static/js/main.11b4effc.js"
+  ]
+}
